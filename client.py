@@ -1,5 +1,6 @@
 # client.py  
 import socket
+import time
 
 # create a socket object
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
